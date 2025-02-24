@@ -111,12 +111,10 @@ Mọi đóng góp đều được hoan nghênh. Vui lòng:
 5. Tạo Pull Request
 
 ## License
-
-MIT
+- MIT
 
 ## Tác giả
-
-[Lucas Ha](https://github.com/tuanha1305)
+- [Lucas Ha](https://github.com/tuanha1305)
 
 ## Liên hệ
 
